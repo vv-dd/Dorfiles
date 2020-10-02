@@ -1,0 +1,27 @@
+mpd_music_dir = "~/Music/Library"
+lyrics_directory = "~/.ncmpcpp/lyrics"
+ncmpcpp_directory = "~/.ncmpcpp"
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_connection_timeout = "5"
+mpd_crossfade_time = "5"
+
+playlist_display_mode = "columns"
+playlist_disable_highlight_delay= "0"
+playlist_show_remaining_time = "yes"
+
+browser_display_mode = "columns"
+autocenter_mode = "yes"
+ignore_leading_the = "yes"
+
+system_encoding = "utf-8"
+
+progressbar_look = "=>-"
+
+#visualizer
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_sync_interval = "12"
+visualizer_type = "spectrum"
+visualizer_in_stereo = "yes"
+visualizer_look = "+|"
