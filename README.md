@@ -1,3 +1,3 @@
-##DOTFILES
+# DOTFILES
 
 Backup of my dotfiles.
